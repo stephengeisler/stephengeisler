@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Stephen Geisler. I am an audio engineer and music producer based in Denver, CO. 10M+ career streams with releases on Universal, Sony, and Ultra Records. Extensive experience in Ableton Live, vocal production, sound design, mixing and mastering. Currently exploring the intersection of professional audio and AI development.
 
 <!--
 **stephengeisler/stephengeisler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
